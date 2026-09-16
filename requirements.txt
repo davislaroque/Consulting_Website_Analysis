@@ -1,0 +1,6 @@
+openai>=1.30,<4
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+ipywidgets>=8,<9
+jupyterlab>=4,<5
+pytest>=8,<10
